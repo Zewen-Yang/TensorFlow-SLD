@@ -1,0 +1,1 @@
+./Tensorflow/models/research/object_detection/model_main_tf2.py --model_dir=Tensorflow/workspace/models/my_centernet_mobnet --pipeline_config_path=Tensorflow/workspace/models/my_centernet_mobnet/pipeline.config --num_train_steps=2000
